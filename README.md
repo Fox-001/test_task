@@ -1,5 +1,12 @@
 # test_task
 Глубокая отработка тонкостей языка Python
+
+
+
+
+
+
+
 def openOrSenior(data):
     data=[data]
     char_list=[] # Переменная для хранения значений мастерства
